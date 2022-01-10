@@ -1,0 +1,9 @@
+{
+    "courseName":"FULLSTACk",
+    "courseCode":"01ecac001",
+    "author":"andew",
+    "edition":2,
+    "pubYear":"sept 2009",
+    "type":"Text Book",
+    "website":"https://indianpdf.com/the-full-stack-developer-pdf/"
+}
